@@ -30,20 +30,15 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
     "dotenv": "^16.0.0",
-    "fcm": "^1.0.3",
-    "fcm-node": "^1.6.1",
-    "firebase-admin": "^11.0.1",
     "googleapis": "^107.0.0",
     "moment": "^2.29.3",
     "mongoose": "^6.3.8",
     "morgan": "^1.10.0",
     "multer": "^1.4.4",
-    "nestjs-twilio": "^2.2.1",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
-    "swagger-ui-express": "^4.4.0",
-    "twilio": "^3.77.2"
+    "swagger-ui-express": "^4.4.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
